@@ -8,7 +8,7 @@ Arquivos necessários na mesma pasta:
 - chave-girando.mp4
 
 Depois de subir no GitHub Pages, a sequência será:
-1. Mostrar a porta e a frase: Arraste a chave para fechadura
+1. Mostrar a porta e a frase: Clique na chave para abrir a fechadura
 2. Arrastar a chave até a fechadura
 3. Cortar para frame-correto.png
 4. Rodar chave-girando.mp4
